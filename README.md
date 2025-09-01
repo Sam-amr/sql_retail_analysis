@@ -1,1 +1,3 @@
-# sql_retail_analysis
+# RETAIL ANALYSIS USING SQL 
+
+### Objectives: 
