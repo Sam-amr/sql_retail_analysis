@@ -226,3 +226,7 @@ SELECT EXTRACT(HOUR FROM CURRENT_TIME)
 
 ## Conclusion
 In this project, I cleaned the retail sales data by removing missing values, explored key information such as total sales, customers, and product categories, and performed various analyses using SQL. I calculated total and average sales, identified top customers and best-selling categories, analyzed customer demographics like age and gender, and examined sales patterns by month and shopping shifts. Overall, the project demonstrated how to use SQL to extract meaningful insights from retail data to support business decisions.
+
+## Author
+Shrawani M. Amrutkar
+shrawani.amrutkar04@gmail.com
